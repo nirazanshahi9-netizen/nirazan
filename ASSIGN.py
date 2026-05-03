@@ -38,7 +38,7 @@ else:
 #8. A spam filter counts how many times the word ‘free’ appears in a message: ‘Get free stuff, free gifts and free coupons now!’.
 message = "Get free stuff, free gifts and free coupons now!"
 free_count = message.count("free")
-print(f"The word 'free' appears {free_count} times in the message.")
+print(f"The wordgit  'free' appears {free_count} times in the message.")
 
 #9. A URL checker verifies whether a website link starts with "https" forsecurity. Write a program for this.
 url2 = "https://www.example.com"
